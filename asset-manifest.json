@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/form-with-validate/static/css/main.9ffcbaf2.chunk.css",
+    "main.js": "/form-with-validate/static/js/main.1ba91803.chunk.js",
+    "main.js.map": "/form-with-validate/static/js/main.1ba91803.chunk.js.map",
+    "runtime-main.js": "/form-with-validate/static/js/runtime-main.2a974423.js",
+    "runtime-main.js.map": "/form-with-validate/static/js/runtime-main.2a974423.js.map",
+    "static/js/2.c921b4a3.chunk.js": "/form-with-validate/static/js/2.c921b4a3.chunk.js",
+    "static/js/2.c921b4a3.chunk.js.map": "/form-with-validate/static/js/2.c921b4a3.chunk.js.map",
+    "index.html": "/form-with-validate/index.html",
+    "static/css/main.9ffcbaf2.chunk.css.map": "/form-with-validate/static/css/main.9ffcbaf2.chunk.css.map",
+    "static/js/2.c921b4a3.chunk.js.LICENSE.txt": "/form-with-validate/static/js/2.c921b4a3.chunk.js.LICENSE.txt",
+    "static/media/close.da5c4222.svg": "/form-with-validate/static/media/close.da5c4222.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a974423.js",
+    "static/js/2.c921b4a3.chunk.js",
+    "static/css/main.9ffcbaf2.chunk.css",
+    "static/js/main.1ba91803.chunk.js"
+  ]
+}
